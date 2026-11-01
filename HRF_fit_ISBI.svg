@@ -768,7 +768,8 @@
          transform="matrix(0.22276884,0,0,0.22276884,30.078001,19.816232)">
         <g
            id="patch_1"
-           style="stroke-linecap:butt;stroke-linejoin:round">
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(1.5473717,0,0,3.5768088,-172.53578,-57.511928)">
           <path
              d="M 0,264.2407 H 1030.8145 V 0 H 0 Z"
              style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
