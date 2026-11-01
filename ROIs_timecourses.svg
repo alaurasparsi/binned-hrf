@@ -28,16 +28,22 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0806047"
-     inkscape:cx="526.55705"
-     inkscape:cy="534.42302"
+     inkscape:cx="467.33093"
+     inkscape:cy="256.80066"
      inkscape:window-width="2560"
      inkscape:window-height="1494"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="figure_1-8" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <rect
+       x="327.18106"
+       y="14.395967"
+       width="142.65095"
+       height="23.557036"
+       id="rect32" />
     <clipPath
        id="pfe1e989568">
       <rect
@@ -1580,6 +1586,18 @@
        id="DejaVuSans-4b-9"
        d="M 3513,2113 V 0 h -575 v 2094 q 0,497 -194,743 -194,247 -581,247 -466,0 -735,-297 -269,-296 -269,-809 V 0 H 581 v 4863 h 578 V 2956 q 207,316 486,472 280,156 646,156 603,0 912,-373 310,-373 310,-1098 z"
        transform="scale(0.015625)" />
+    <rect
+       x="327.18106"
+       y="14.395967"
+       width="142.65096"
+       height="23.557035"
+       id="rect32-8" />
+    <rect
+       x="327.18106"
+       y="14.395967"
+       width="142.65096"
+       height="23.557035"
+       id="rect32-8-9" />
   </defs>
   <g
      inkscape:label="Calque 1"
@@ -1589,7 +1607,16 @@
     <g
        id="figure_1"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.21577832,0,0,0.21577832,2.9147328,78.304948)">
+       transform="matrix(0.21577832,0,0,0.21577832,3.9730662,79.363282)"
+       inkscape:label="figure_1">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:9.217"
+         id="rect31"
+         width="240.19536"
+         height="192.45012"
+         x="-6.8952007"
+         y="20.866323"
+         transform="matrix(4.6343859,0,0,4.6343859,-13.507997,-362.89534)" />
       <g
          id="patch_1"
          style="stroke-linecap:butt;stroke-linejoin:round"
@@ -15699,5 +15726,31 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,199.50824,151.43994)"
+       id="text31"
+       style="font-size:12px;line-height:1.3;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32);fill:#ffffff;fill-rule:evenodd;stroke-width:34.8359"><tspan
+         x="327.18164"
+         y="25.644448"
+         id="tspan2"><tspan
+           style="fill:#000000"
+           id="tspan1">subject 1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,199.82628,196.7663)"
+       id="text31-6"
+       style="font-size:12px;line-height:1.3;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32-8);fill:#000000;fill-rule:evenodd;stroke-width:34.8359;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="327.18164"
+         y="25.644448"
+         id="tspan3">subject 6</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,199.80655,251.20754)"
+       id="text31-6-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.3;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32-8-9);fill:#000000;fill-rule:evenodd;stroke-width:34.8359"><tspan
+         x="327.18164"
+         y="25.644448"
+         id="tspan4">subject 8</tspan></text>
   </g>
 </svg>
